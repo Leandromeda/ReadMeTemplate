@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 # Título do projeto
 
 Discorra em um ou mais parágrafos a descrição do seu projeto.
@@ -98,4 +100,4 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 ---
 ![image](https://static.wikia.nocookie.net/saintseya/images/1/10/Corrente_de_Andr%C3%B4meda.gif/revision/latest/scale-to-width-down/202?cb=20150629040018&path-prefix=pt)
 
-Por @[Leandromeda](https://github.com/Leandromeda/) ⛓️
+Por @[Leandromeda](https://github.com/Leandromeda/) ⛓️ | <a href="#readme-top">⬆️ Voltar ao topo</a>
