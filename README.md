@@ -62,7 +62,16 @@ Adicione notas adicionais sobre como implantar isso em um sistema já existente.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Mencione as ferramentas que você usou para criar seu projeto. Esta seção deve listar todos os principais framworks/bibliotecas usadas para inicializar seu projeto. Aqui estão alguns exemplos:
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
