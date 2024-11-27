@@ -81,7 +81,10 @@ Mencione as ferramentas que você usou para criar seu projeto. Esta seção deve
 
 ## 📌 Versão
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+Coloque aqui a versão do projeto, exemplo: 1.0
+
+Para alterações pequenas: 1.1, 1.2, 1.3 e assim sucessivamente.
+Para alterações maiores 2.0, 3.0...
 
 ## ✒️ Autores
 
