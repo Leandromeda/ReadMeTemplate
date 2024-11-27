@@ -79,10 +79,6 @@ Mencione as ferramentas que você usou para criar seu projeto. Esta seção deve
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
 * [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
 ## 📌 Versão
 
 Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
