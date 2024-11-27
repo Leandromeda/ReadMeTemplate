@@ -3,12 +3,12 @@
 # Título do projeto
 
 Discorra em um ou mais parágrafos a descrição do seu projeto.
+![image](https://github.com/user-attachments/assets/862ff270-0475-4fad-ac62-91cdb7d69ed4)<br>
+Ilustre com imagens, vídeos e gifs animados do projeto em funcionamento. Você pode enviar vídeos ao YouTube para serem apresentados aqui.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+Instrua os visitantes para que obtenham uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e testes.
 
 ### 📋 Pré-requisitos
 
@@ -36,9 +36,11 @@ Até finalizar...
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
+<!-- Note que você pode colocar trechos de código e comandos para cópia aos visitantes. -->
+
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes com a sua aplicação.
+Explicar como executar testes com a sua aplicação.
 
 ### 🔩 Analise os testes de ponta a ponta
 
@@ -92,16 +94,20 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 * **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
 * **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+Você também pode gerar uma imagem de todos que participaram deste projeto no site [Contrib](https://contrib.rocks/), mas antes você deve ir nas configurações do repositório do projeto ⚙️ e adicionar o nome do GitHub de todos os colaboradores que contribuíram ao projeto.
+
+Exemplo de imagem gerada:
+
+<img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença (sua licença) - crie um arquivo de nome **LICENSE** no repositório e escolha MIT, a principal licença de distribuição.
 
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
+* Convide alguém da equipe para um suco 🥤;
 * Um agradecimento publicamente 🫂;
 * etc.
 
@@ -112,9 +118,7 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 Por @[Leandromeda](https://github.com/Leandromeda/) ⛓️ | <a href="#readme-top">⬆️ Voltar ao topo</a>
 
 
-
-
-
+<!-- Associação de links e imagens dos frameworkas apresentados na seção "Construído com" -->
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
